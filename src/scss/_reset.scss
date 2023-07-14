@@ -1,0 +1,49 @@
+@import url('https://webfontworld.github.io/uto123RF/Uto123RF.css');
+@import url('https://webfontworld.github.io/gonggames/EsaManru.css');
+@import url('https://webfontworld.github.io/sebang/SebangGothic.css');
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family: "SebangGothic";
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+a {
+    text-decoration: none;
+    color: #222;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+}
+li, ul, ol {
+    list-style: none;
+}
+img {
+    vertical-align: top;
+    width: 100%;
+}
+em {
+    font-style: normal;
+    font-weight: 300;
+}
+body {
+    /* background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/debee0l-eca2c69e-8c11-421b-905e-29841ab8bbf7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGViZWUwbC1lY2EyYzY5ZS04YzExLTQyMWItOTA1ZS0yOTg0MWFiOGJiZjcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bLss-D_4-kWiv5xyurUsivfJHkl5ukWbqaUpjMD-PyQ); */
+    /* background-image: url(https://www.collater.al/wp-content/uploads/2021/12/Waneella.gif); */
+    /* background-image: url(https://giffiles.alphacoders.com/215/215993.gif); */
+    /* background-image: url(https://i.pinimg.com/originals/64/05/31/6405318ac146473a95bfbdcec2b32943.gif); */
+    /* background-image: url(https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif); */
+    /* background-image: url(https://i.pinimg.com/originals/cb/f7/16/cbf716b1e6f2004b8326074f1f1708aa.gif); */
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/061c5ef8-2616-48a4-af21-9f97322673b3/deysvi3-4cc39796-d0db-4a42-997f-758d9198ace4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2MWM1ZWY4LTI2MTYtNDhhNC1hZjIxLTlmOTczMjI2NzNiM1wvZGV5c3ZpMy00Y2MzOTc5Ni1kMGRiLTRhNDItOTk3Zi03NThkOTE5OGFjZTQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IoK3ogNCgZpmubbgMs4uK0jdF_Qqb0yygZ30hvDt0Qg);
+    // background-image: url(https://64.media.tumblr.com/cf748aa5518f0ad3dae74162424f4a04/76ddd678316d5ac1-2e/s1280x1920/2d44253cd906c372b65071c303930a269bf38729.gif); 
+    // background-image: url(https://steamuserimages-a.akamaihd.net/ugc/879748616164108107/8F44EE6DAFB4F4E2469AA4947059A09E1A78E93C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+    // background-image: url(https://img10.joyreactor.cc/pics/post/Pixel-Art-Pixel-Gif-retrowave-6681113.gif);
+    background-image: url(https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif);
+    // background-image: url(https://i.pinimg.com/originals/51/05/bd/5105bd5dc056f7c3283dd64b20fe4d0b.gif);
+    background-image: url(https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif);
+    background-image: url(https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
